@@ -15,7 +15,7 @@ Our analysis has unearthed several key insights:
 
 1. Transfer Surge: The 2022-23 summer transfer window saw an incredible surge in player transfers. July recorded a staggering 9,623 transfers, an 824.40% increase over September's lowest count of 1,041.
 
-2. **Monthly Activity: July dominated with 9,623 transfers, followed by August at 3,103 and September at 1,041, highlighting the stark contrast in activity.
+2. Monthly Activity: July dominated with 9,623 transfers, followed by August at 3,103 and September at 1,041, highlighting the stark contrast in activity.
 
 3. July's Prominence: July accounted for a substantial 69.90% of the total number of transfers during the summer window, underscoring its pivotal role.
 
